@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"Basics_of_java.chapter1","l":"Hello"},{"l":"所有类和接口","u":"allclasses-index.html"}];updateSearchResults();
