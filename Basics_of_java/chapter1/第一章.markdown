@@ -80,3 +80,13 @@ float与double：
 ### Java Doc
 /** */回车自动生成注释  
 运行& "D:\java\bin\javadoc.exe" -encoding UTF-8 -charset UTF-8 -d docs Basics_of_java/chapter1/Hello.java  
+
+
+//更改端口
+git config --global http.proxy http://127.0.0.1:23333
+git config --global https.proxy http://127.0.0.1:23333
+//检查
+git config --global --get http.proxy
+git config --global --get https.proxy
+//
+git ls-remote origin
